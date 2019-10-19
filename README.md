@@ -511,11 +511,3 @@ The papers related to datasets used mainly in Object Detection are as follows.
 - **[Objects365]** Objects365: A Large-Scale, High-Quality Dataset for Object Detection	| **[ICCV' 19]** | [`[link]`](https://www.biendata.com/competition/objects365/)
 
 ##
-
-## Contact & Feedback
-
-If you have any suggestions about papers, feel free to mail me :)
-
-- [e-mail](mailto:lee.hoseong@sualab.com)
-- [blog](https://hoya012.github.io/)
-- [pull request](https://github.com/hoya012/deep_learning_object_detection/pulls)
